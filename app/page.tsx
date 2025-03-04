@@ -3,11 +3,15 @@ import Link from 'next/link';
 const examples = [
   {
     title: 'Stream text',
-    link: '/basics/stream-text',
+    link: '/stream-text',
   },
   {
     title: 'Stream object',
-    link: '/basics/stream-object',
+    link: '/stream-object',
+  },
+  {
+    title: 'Call tools',
+    link: '/call-tool',
   },
 ];
 
